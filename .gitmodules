@@ -1,0 +1,6 @@
+[submodule "LuoYiMusic-server/LuoYiMusic-server-api"]
+	path = LuoYiMusic-server/LuoYiMusic-server-api
+	url = https://github.com/96368a/LuoYiMusic-server-api.git
+[submodule "LuoYiMusic-server/LuoYiMusic-server-vue"]
+	path = LuoYiMusic-server/LuoYiMusic-server-vue
+	url = https://github.com/96368a/LuoYiMusic-server-vue

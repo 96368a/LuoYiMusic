@@ -4,3 +4,6 @@
 [submodule "LuoYiMusic-server/LuoYiMusic-server-vue"]
 	path = LuoYiMusic-server/LuoYiMusic-server-vue
 	url = https://github.com/96368a/LuoYiMusic-server-vue
+[submodule "LuoYiMusic-client/LuoYiMusic-client-vue"]
+	path = LuoYiMusic-client/LuoYiMusic-client-vue
+	url = https://github.com/debug16/LuoYiMusic.git
